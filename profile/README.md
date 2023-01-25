@@ -1,6 +1,6 @@
 ## (hello) = ielo and welcome to the team 👋
 
-🙋‍♀️ We are building the first Romanian social marketplace, so stay tuned for updates on https://ielo.ro.
+🙋‍♀️ We are building the first Romanian social marketplace, so stay tuned for updates on https://ielo.ro
 <!--
 
 **Here are some ideas to get you started:**
